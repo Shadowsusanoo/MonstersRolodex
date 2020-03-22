@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+.search {
+    -webkit-appearance: none;
+    outline: none;
+    padding: 20px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    
+ 
+  }
